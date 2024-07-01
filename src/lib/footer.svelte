@@ -1,0 +1,1 @@
+<p>This is a footer for the single page application</p>
